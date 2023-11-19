@@ -1,0 +1,1 @@
+# here we configure network cloud resources

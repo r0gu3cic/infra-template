@@ -1,0 +1,1 @@
+# here we configure compute cloud resources
